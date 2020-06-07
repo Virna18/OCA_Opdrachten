@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Demo {
+public class BankLeven {
     public static void main (String [] args){
         Persoon jan = new Persoon();
         Persoon kees = new Persoon();
